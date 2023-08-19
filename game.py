@@ -43,7 +43,7 @@ def handle_turn(player):
     position=input("Choose a no b/w 1 to 9 : ")
     valid=False
     while not valid:
-        while position not in ["0","1","2","3","4","5","6","7","8"]:  
+        while position not in ["1","2","3","4","5","6","7","8","9"]:  
             position=input("Pls,Choose no b/w 1 to 9 only : ")
         position=int(position)-1
         if board[position]=="-":
