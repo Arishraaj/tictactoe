@@ -1,6 +1,5 @@
 # Tic-Tac-Toe Python Project
 
-![Tic-Tac-Toe Banner]
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -33,7 +32,7 @@ Before you can play the game, you need to have Python installed on your computer
 
 1. Clone this repository to your local machine using the following command:
 
-git clone https://github.com/Arishraaj/game.git
+git clone https://github.com/Arishraaj/tictactoe.git
 
 
 ## How to Play
